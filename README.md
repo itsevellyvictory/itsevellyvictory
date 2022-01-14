@@ -4,9 +4,7 @@
 - 🔭 Técnico em Informática 2/3 | IFMA Campus Caxias✔️
 - 🎈 Learning...
 - 👧 16 years...
--   *    .     🌟    *      *    . 🌎🌟                     🎀
-    •    *     •   .     .    .       .      *    *        *    .       •    *   .  
-    .   🎀      ★   .    *  .  s •    *     ☆.       .•    🌟
+
 <div align="center">
   <a href="https://github.com/itsevellyvictory">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsevellyvictory&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
