@@ -1,5 +1,5 @@
 
-### Oi!! Eu sou a Evelly Victory!🎈
+### Oii!! Eu sou a Evy!!🎈
 
 - 🔭 Técnico em Informática 2/3 | IFMA Campus Caxias✔️
 - 🎈 Learning...
