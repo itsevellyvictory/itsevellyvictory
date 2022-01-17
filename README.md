@@ -2,7 +2,7 @@
 ### Oii!! Eu sou a Evy!!🎈
 
 - 🔭 Técnico em Informática 2/3 | IFMA Campus Caxias✔️
-- 🎈 Learning...
+- 🎈 Learning with love
 - 👧 16 years...
 
 <div align="center">
