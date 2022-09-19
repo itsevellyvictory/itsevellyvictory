@@ -1,9 +1,9 @@
 
 ### Oii!! Eu sou a Evy!!🎈
 
-- 🔭 Técnico em Informática 2/3 | IFMA Campus Caxias✔️
+- 🔭 Técnico em Informática 3/3 | IFMA Campus Caxias✔️
 - 🎈 Learning with love
-- 👧 16 years...
+- 👧 17 years...
 
 <div align="center">
   <a href="https://github.com/itsevellyvictory">
