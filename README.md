@@ -3,7 +3,7 @@
 
 - 🔭 Técnica em Informática 3/3 | IFMA Campus Caxias✔️
 - 💻 Computer Science 1/8
-- 🎈 Learning with love
+- 🎈 Front-End Developer
 - 👧 18 years...
 
 <div align="center">
