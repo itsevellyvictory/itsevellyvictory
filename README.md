@@ -2,9 +2,9 @@
 ### Oii!! Eu sou a Evy!!🎈
 
 - 🔭 Técnica em Informática 3/3 | IFMA Campus Caxias✔️
-- 💻 Computer Science 1/8
+- 💻 Computer Science 3/8
 - 🎈 Front-End Developer
-- 👧 18 years...
+- 👧 19 years...
 
 <div align="center">
   <a href="https://github.com/itsevellyvictory">
